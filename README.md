@@ -1,2 +1,2 @@
 # CIFAR10-Explorations
-RESEARCH ON VISION AND LLM
+Incremental research on self-supervised representation learning: Baseline CIFAR-10 classification using PyTorch.
